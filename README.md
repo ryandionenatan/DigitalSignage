@@ -29,17 +29,6 @@ To get started with DigitalSignage, follow these steps:
 
 3. Install the required dependencies and setup the environment.
 
-## Usage
-
-1. Open the application:
-    ```bash
-    Project1.exe
-    ```
-
-2. Configure the content you want to display (text and video) through the application interface.
-
-3. Start the display to showcase the running text and multimedia content in public spaces.
-
 ## Configuration
 
 ### Database Setup
